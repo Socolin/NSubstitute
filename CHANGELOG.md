@@ -1,5 +1,6 @@
 ### unreleased
 * [NEW] Add .NET 5 support
+* [NEW] Add `.ThrowsAsync()` that will correctly mock exception on async methods. (#609)
 
 ### 4.2.2 (Jun 2020)
 
